@@ -1,0 +1,51 @@
+.logo {
+    
+    text-align: center;
+}
+.logo img {
+    width: 351px;
+    height: 113px;
+}
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.search {
+    background-color: #EEEEEE;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.search-form {
+    width: 309px;
+}
+
+.footer {
+    margin-top: 2px;
+    display: grid;
+    grid-template-columns: 37% 20% auto;
+    column-gap: 2px;
+    text-align: center;
+    }
+
+.searching {
+    background-color:#7EE5DA ;
+}
+
+.about {
+    background-color:#70CCC2 ;
+    font-size: small;
+}
+
+.subscribe {
+    background-color:#62B3AA ;
+    font-size: small;
+}
+.credit {
+    text-align: center;
+    font-size: small;
+    margin: 1%; 
+}
